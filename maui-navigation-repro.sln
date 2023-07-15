@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maui-navigation-repro", "maui-navigation-repro.csproj", "{24959780-12E7-4F2B-A319-86080F1986DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24959780-12E7-4F2B-A319-86080F1986DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24959780-12E7-4F2B-A319-86080F1986DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24959780-12E7-4F2B-A319-86080F1986DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24959780-12E7-4F2B-A319-86080F1986DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
